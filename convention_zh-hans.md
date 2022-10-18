@@ -1,1 +1,1 @@
-下载或阅读由qtqt_Eric_Chiu（"qtqt_Eric_Qiu","qtqt"
+下载或阅读由qtqt_Eric_Chiu（"qtqt_Eric_Qiu","qtqt"）制作的电子书（".epub",".pdf"或者其他格式，下称“本文件”）文件，即代表您已阅读并愿意遵守此公约的相关条款，从而对您对本文件的行为进行一定的约束。

@@ -1,7 +1,10 @@
+[Simplified Chinese]  
+\[[使用公约](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/EBook-Docs/convention_zh-hans.md)\] | \[[为什么选择在GitHub上储存这些文本文档？](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/main/why-create-these-documents-at-github.md "为什么选择在GitHub上储存这些文本文档？")\] | [支持的应用] | \[[参考资料](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/EBook-Docs/references.md)\]
+
 常见问题解答
 =========
-> Q：为什么有很多东西变成了白框框？  
-A：小伙伴你好！你使用的阅读器太老了，居然还不支持SVG，建议下载支持SVG图片的阅读软件或者使用兼容版本（若有）哦~  
+> Q：为什么有很多东西变成了白框框\空白占位符？  
+A：小伙伴你好！你使用的阅读器太老了，居然还不支持SVG和emoji，建议下载支持SVG图片和emoji表情符号的阅读软件或者使用兼容版本（若有）哦~  
 
 > Q：为什么你做的东西我都打不开啊？显示书籍打开失败。  
 A：小伙伴你好！如果您使用的是多看阅读或者小米阅读，建议更换阅读器或者默认使用兼容版本（若有）文件哦~  

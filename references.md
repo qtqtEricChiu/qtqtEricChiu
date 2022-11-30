@@ -17,7 +17,7 @@
 >[LK链接](https://www.lightnovel.us/detail/1013702 "将跳转至lightnovel.us") |  [B站链接](https://www.bilibili.com/read/cv4419244/ "将跳转至bilibili.com")
 
 #### 制作参考
->**@赤霓** *《ePub指南——从入门到放弃》（第2版）*
+>**@赤霓** *《ePub指南——从入门到放弃》（第2版）*   
 >参考了其他epub制作者对特殊阅读器（如多看）的css适配代码，由于实际作者不详，此处欢迎认领代码，再次感谢。 
 
 #### 字体

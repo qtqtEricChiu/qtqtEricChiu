@@ -18,7 +18,7 @@
 
 #### 制作参考
 >**@赤霓** *《ePub指南——从入门到放弃》（第2版）*
->**@Paranoid** 
+>参考了其他epub制作者对特殊阅读器（如多看）的css适配代码，由于实际作者不详，此处欢迎认领代码，再次感谢。 
 
 #### 字体
 >[方正字库家庭版用户许可协议](https://www.foundertype.com/index.php/About/powerPer.html "将跳转至foundertype.com") | [锐字潮牌字库个人学习版用字须知](http://www.reeji.com/yzxz "将跳转至reeji.com")   

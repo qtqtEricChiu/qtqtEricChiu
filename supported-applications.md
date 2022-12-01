@@ -48,7 +48,7 @@ A：小伙伴你好！对不起！（滑跪）
 ### Android™及其他基于AOSP框架构建的系统（OS）与子系统（SubSystem）
  - [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader "将跳转至Google Play Store")（0.23.0） *（强烈推荐。本人以此软件为制作基准。）\*有内购*【支持弹注】【支持SVG】【支持emoji】
  - Reasily（2022.01f）*\*有内购* 【支持弹注】【支持SVG】【支持emoji】
- - Play 图书 / Play 圖書 *\*在线服务有内购* 
+ - Play 图书 / Play 圖書 *\*在线服务有内购* （暂未测试，可能无法使用）
  - [多看阅读 / 小米阅读 / 多看閱讀](https://www.duokan.com/pc/)（6.6.0.20） *（不推荐。但兼容版文件以此软件为制作基准。）\*在线服务有内购* 【支持弹注】【不支持SVG】【不支持emoji】
  - Neat Reader *\*有内购*【支持脚注（不支持图片跳转）】【支持SVG】【支持emoji】
  - ReadEra（21.07.17+1520）**有严重的显示问题 谨慎选用**【不支持注释】【不支持SVG】【不支持emoji】

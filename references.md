@@ -1,4 +1,5 @@
 [Simplified Chinese]  
+\[[使用公约](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/EBook-Docs/convention_zh-hans.md)\] | \[[为什么选择在GitHub上储存这些文本文档？](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/main/why-create-these-documents-at-github.md "为什么选择在GitHub上储存这些文本文档？")\] | \[[支持的应用](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/EBook-Docs/supported-applications.md)\] | [参考资料]  
 
 参考资料
 =========

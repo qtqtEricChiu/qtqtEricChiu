@@ -26,10 +26,10 @@ A：小伙伴你好！对不起！（滑跪）
 *不欢迎任何形式的在线加载阅读。您因在线阅读本文件所造成的损失由您自负。*
 
 > ### 按文件版本分类  
-> 自用完整版：使用SVG图片。仅支持Calibre（Win）、Lithium（And）、Reasily（And）  
-> 多看标准版：多看阅读（And）、Icecream EBook Reader（Win）
+> 自用完整版：使用SVG图片。仅支持Calibre（Win）、Lithium（And）、Reasily（And）    
+> 多看标准版：多看阅读（And）、Icecream EBook Reader（Win）  
 > 文字跳转低配版：KoodoReader（Win）、Neat Reader（全平台）、iBooks（iOS）  
-> 明确不再兼容的应用：（And）ReadEra、阅读（开源阅读Legado）  
+> 明确不再兼容的应用：（And）ReadEra、阅读（开源阅读Legado）    
 
 -----
 

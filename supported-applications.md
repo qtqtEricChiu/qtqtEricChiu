@@ -38,13 +38,14 @@ A：小伙伴你好！对不起！（滑跪）
  -  [Icecream EBook Reader](https://www.icecreamapps.com/Ebook-Reader/ "将跳转至第三方网站") *\*有内购*
 
 ### Android™及其他基于AOSP框架构建的系统与子系统（SubSystem）
- - [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader "将跳转至Google Play Store") *（强烈推荐。本人以此软件为制作基准。）\*有内购*
- - Play 图书 / Play 圖書
- - Reasily
- - ReadEra
- - 阅读（开源阅读） / 閱讀
- - [多看阅读 / 小米阅读 / 多看閱讀](https://www.duokan.com/pc/) *（不推荐。但兼容版文件以此软件为制作基准。）\*在线服务有内购* 
-*某个玩意儿我不推荐大家使用，具体名字就不说了*
+ - [Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader "将跳转至Google Play Store")（0.23.0） *（强烈推荐。本人以此软件为制作基准。）\*有内购*
+ - Play 图书 / Play 圖書 *\*在线服务有内购* 
+ - Reasily（2022.01f）*\*有内购* 
+ - [多看阅读 / 小米阅读 / 多看閱讀](https://www.duokan.com/pc/)（6.6.0.20） *（不推荐。但兼容版文件以此软件为制作基准。）\*在线服务有内购* 
+ - ReadEra（21.07.17+1520）**有严重的显示问题 谨慎选用**
+ - Neat Reader **注释无法使用 谨慎选用** *\*有内购*
+ - 阅读（开源阅读） / 閱讀 / Legado（3.21.111418）**非常严重的排版问题和屏蔽非目录文本问题 不推荐**  
+*某个玩意儿我出于各种原因不推荐大家使用，具体不作提及*
 
 ### iOS & iPad OS
 由于设备有限 *（穷）*，仅使用*本人看书主力设备***iPhone 4s**测试iBooks（[Apple Books](https://www.apple.com/apple-books/)前身）应用 *（iOS版本：9.3.6）*。

@@ -41,7 +41,9 @@ A：小伙伴你好！对不起！（滑跪）
 *排序代表本人推荐程度*
 ### Windows
  -  [Microsoft Edge Legacy](https://support.microsoft.com/zh-cn/microsoft-edge/%E4%BB%80%E4%B9%88%E6%98%AF-microsoft-edge-%E6%97%A7%E7%89%88-3e779e55-4c55-08e6-ecc8-2333768c0fb0) *（没什么别的意思，只是单纯放个墓碑在这里）*  
+ -  [Starrea](https://apps.microsoft.com/store/detail/starrea-epub-reader/9NK7HZ90B3S6) *\*付费首选：CNY¥28 HKD$31 USD$3.99 NT$135*【支持弹注】【支持emoji】
  -  [Calibre](https://github.com/kovidgoyal/calibre) *（推荐）*【支持弹注】【支持SVG】【支持emoji】
+ -  [干净阅读](https://github.com/Clean-Reader/CleanReader.Desktop) *UI不错*【不支持注释】【仅可使用低配版】【支持emoji】
  -  [Koodo Reader](https://koodo.960960.xyz/ "将跳转至第三方网站")【支持脚注（不支持图片跳转）】【支持SVG】【支持emoji】
  -  [Icecream EBook Reader](https://www.icecreamapps.com/Ebook-Reader/ "将跳转至第三方网站") *\*有内购*【支持脚注】【支持SVG】【支持emoji】
 
@@ -53,7 +55,7 @@ A：小伙伴你好！对不起！（滑跪）
  - Neat Reader *\*有内购*【支持脚注（不支持图片跳转）】【支持SVG】【支持emoji】
  - ReadEra（21.07.17+1520）**有较为严重的图片显示问题 谨慎选用**【不支持注释】【不支持SVG】【不支持emoji】
  - 阅读（开源阅读） / 閱讀 / Legado（3.21.111418）**非常严重的排版问题和屏蔽非目录文本问题 不推荐**【不支持超链接】【不支持SVG】【支持emoji】  
-*某个玩意儿我出于各种原因不推荐大家使用，具体不作提及*
+*某个玩意儿我出于各种原因不推荐大家使用，具体不作提及*https://apps.microsoft.com/store/detail/starrea-epub-reader/9NK7HZ90B3S6?hl=zh-cn&gl=cn
 
 ### iOS & iPad OS
 由于设备有限 *（穷）*，仅使用*本人看书主力设备***iPhone 4s**测试iBooks（[Apple Books](https://www.apple.com/apple-books/)前身）应用 *（iOS版本：9.3.6）*。【支持弹注（不支持图片弹注）】【支持emoji】

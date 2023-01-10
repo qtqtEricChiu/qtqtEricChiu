@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/qtqtEricChiu/qtqtEricChiu/main/images/Header.png "Header")
+
 [English] \[[Chinese](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/main/README-zhhans.md)\]
 
 Hello from China！   

@@ -35,7 +35,7 @@ For my EBook work, you can read [*Convention*](https://github.com/qtqtEricChiu/q
    
 ###   ⩥ DEVICES
 
-![](https://img.shields.io/badge/Phone-OnePlus_7Pro-informational?style=flat&logo=oneplus&logoColor=white&color=F5010C) ![](https://img.shields.io/badge/PC-ASUS_X555LJ-informational?style=flat&logo=asus&logoColor=white&color=000000) ![](https://img.shields.io/badge/PC-COLORFUL_X15_AT_22-informational?style=flat&logo=&logoColor=white&color=dc0a2d)  ![](https://img.shields.io/badge/Phone_but_Used_for_Ebook_Reading-iPhone_4s-informational?style=flat&logo=apple&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Phone-OnePlus_7Pro-informational?style=flat&logo=oneplus&logoColor=white&color=F5010C) ![](https://img.shields.io/badge/Laptop_PC-ASUS_X555LJ-informational?style=flat&logo=asus&logoColor=white&color=000000) ![](https://img.shields.io/badge/Laptop_PC-COLORFUL_X15_AT_22-informational?style=flat&logo=&logoColor=white&color=dc0a2d)  ![](https://img.shields.io/badge/Phone_but_Used_for_Ebook_Reading-iPhone_4s-informational?style=flat&logo=apple&logoColor=white&color=000000)
 
 ###   ⩥ SYSTEM ENVIRONMENT
 

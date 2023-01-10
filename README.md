@@ -16,6 +16,8 @@ For my EBook work, you can read [*Convention*](https://github.com/qtqtEricChiu/q
 [*Supported Applications*](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/EBook-Docs/supported-applications.md) will provide you with a list of eBooks reading applications that have passed the test and are available or unsupported.   
 **Similarly, both the works and the above documents are available in Simplified Chinese only. All content should not be used in countries and regions that do not support it.**
    
+   **Please note that nothing mentioned herein is for profit and is for learning purposes only. It is for personal and non-commercial use.**  
+   
 ###   ⩥ OFFICIAL SNS
    
 [![](https://img.shields.io/badge/Twitter_for_Formula1_&_ACGN_ONLY-Eric_Chiu-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2)](https://twitter.com/qtqt_Eric_Chiu) in Simplified Chinese & English
@@ -28,11 +30,12 @@ For my EBook work, you can read [*Convention*](https://github.com/qtqtEricChiu/q
    
 ###   ⩥ E-MAIL
    
-   [![](https://img.shields.io/badge/Feedback_Mail-ericqiuqtqt@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=4285F4)](mailto:ericqiuqtqt@gmail.com) [![](https://img.shields.io/badge/External_Mail-ericqiu__qtqt@qq.com-informational?style=flat&logo=&logoColor=white&color=4599e7)](mailto:ericqiu_qtqt@qq.com) [![](https://img.shields.io/badge/Work_Mail-ericqiu__qtqt@163.com-informational?style=flat&logo=&logoColor=white&color=db0816)](mailto:ericqiu_qtqt@163.com)
+   [![](https://img.shields.io/badge/Feedback_Mail-ericqiuqtqt@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=4285F4)](mailto:ericqiuqtqt@gmail.com) [![](https://img.shields.io/badge/External_Mail-ericqiu__qtqt@qq.com-informational?style=flat&logo=&logoColor=white&color=4599e7)](mailto:ericqiu_qtqt@qq.com) [![](https://img.shields.io/badge/Work_Mail-ericqiu__qtqt@163.com-informational?style=flat&logo=&logoColor=white&color=db0816)](mailto:ericqiu_qtqt@163.com)   
+   We respect intellectual property rights. If you think that my work infringes your copyright, please contact the above *external mail*, we will reply as soon as possible.
    
 ###   ⩥ DEVICES
 
-![](https://img.shields.io/badge/Phone-OnePlus_7Pro-informational?style=flat&logo=oneplus&logoColor=white&color=F5010C) ![](https://img.shields.io/badge/PC-ASUS_X555LJ-informational?style=flat&logo=asus&logoColor=white&color=000000) ![](https://img.shields.io/badge/PC-COLORFUL_X15_AT_22-informational?style=flat&logo=&logoColor=white&color=dc0a2d)  ![](https://img.shields.io/badge/Phone-iPhone_4s-informational?style=flat&logo=apple&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Phone-OnePlus_7Pro-informational?style=flat&logo=oneplus&logoColor=white&color=F5010C) ![](https://img.shields.io/badge/PC-ASUS_X555LJ-informational?style=flat&logo=asus&logoColor=white&color=000000) ![](https://img.shields.io/badge/PC-COLORFUL_X15_AT_22-informational?style=flat&logo=&logoColor=white&color=dc0a2d)  ![](https://img.shields.io/badge/Phone_but_Used_for_Ebook_Reading-iPhone_4s-informational?style=flat&logo=apple&logoColor=white&color=000000)
 
 ###   ⩥ SYSTEM ENVIRONMENT
 

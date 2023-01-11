@@ -8,12 +8,12 @@ qtqt不是程序员。
 
 来GitHub的目的，主要是存一些文档，包括小q多个领域的一些声明啊、协议啊、公约之类的。
 
-如果你是从Eric早前制作的Kustom组件包来的朋友，[*隐私协议*](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/Kustom-Docs/Privacy%20Policy-zhhans.md)应该是需要您关注的内容。   
+如果你是从Eric早前制作的Kustom组件包来的朋友，[*隐私政策*](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/Kustom-Docs/Privacy%20Policy-zhhans.md)应该是需要您关注的内容。   
 [*使用协议*](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/Kustom-Docs/Terms%20and%20Conditions_Jump-zhhans.md)也包含一些您需要履行的义务和承担的责任。   
 **需要注意的是，您使用由本人制作的Kustom组件包时，需要遵守中国大陆或您所在当地其它国家和地区的法律法规。Eric的作品原则上仅面向中国大陆地区发布，所以您的数据可能会上传至服务器位于中国境内的第三方服务商手中；当然，Eric不会经手和接收您的任何数据。上述文档也仅提供简体中文版本。**
 
-对于使用由我制作的的电子书的朋友，请您务必阅读[*文件使用公约*](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/EBook-Docs/convention_zh-hans.md)以确保您合规使用本文件。您在使用本文件的过程中产生违法违规行为qtqt、翻译老师、其他参与老师以及首发站点将不会承担任何责任。除此之外，第三方若需转载本人文件、文件内容著作权归属等内容，亦包含在上述文档中。该清单小q没收钱，纯评测。  
-[*支持的应用*](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/EBook-Docs/supported-applications.md)是经由qtqt测试的数款电子书阅读器应用功能支持和文件兼容性清单，放在这里以供参考，敬请选择更佳阅读器应用以使用qtqt的电子书文档！   
+对于使用由我制作的的电子书的朋友，请您务必阅读[*文件使用公约*](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/EBook-Docs/convention_zh-hans.md)以确保您合规使用本文件。您在使用本文件的过程中产生违法违规行为qtqt、翻译老师、其他参与老师以及首发站点将不会承担任何责任。除此之外，第三方若需转载本人文件、文件内容著作权归属等内容，亦包含在上述文档中。  
+[*支持的应用*](https://github.com/qtqtEricChiu/qtqtEricChiu/blob/EBook-Docs/supported-applications.md)是经由qtqt测试的数款电子书阅读器应用功能支持和文件兼容性清单，放在这里以供参考，敬请选择更佳阅读器应用以使用qtqt的电子书文档！该清单小q没收钱，纯评测。   
 **同样的，上述文档只有简体中文。qtqt不保证本人制作的文件适用中国大陆以外地区的法律法规，除此之外，qtqt制作的文件目前仅提供简体中文版本。对于授权转载和未授权转载qtqt、翻译老师、其他参与老师以及首发站点也不会承担任何责任。**
 
 **请注意，本人此处提及内容均未用以牟利，且仅供学习交流使用，适用于个人非商业用途。**
